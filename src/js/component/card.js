@@ -72,9 +72,7 @@ function Card() {
 				<div className="card-body">
 					<h5 className="card-title">Corgi</h5>
 					<p className="card-text">
-						This is a longer card with supporting text below as a
-						natural lead-in to additional content. This content is a
-						little bit longer.
+						This loaf of corgi is the source corgi for all the corgis
 					</p>
 					<p className="card-text">
 						<small className="text-muted">
