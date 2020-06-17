@@ -3,6 +3,7 @@ import Navbar from "./navbar";
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
 import Jumbotron from "./jumbotron";
+import Card from "./card";
 
 //create your first component
 export function Home() {
@@ -10,6 +11,7 @@ export function Home() {
 		<div className="container">
 			<Navbar />
 			<Jumbotron />
+			<Card />
 		</div>
 	);
 }
