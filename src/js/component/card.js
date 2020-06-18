@@ -72,7 +72,8 @@ function Card() {
 				<div className="card-body">
 					<h5 className="card-title">Corgi</h5>
 					<p className="card-text">
-						This loaf of corgi is the source corgi for all the corgis
+						This loaf of corgi is the source corgi for all the
+						corgis
 					</p>
 					<p className="card-text">
 						<small className="text-muted">
